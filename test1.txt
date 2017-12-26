@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 82B9-BB9C
+
+ Directory of C:\Users\ACER\Desktop\MyGitProject
+
+26-12-2017  14:03    <DIR>          .
+26-12-2017  14:03    <DIR>          ..
+26-12-2017  14:03                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  97,445,146,624 bytes free
